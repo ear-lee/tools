@@ -10,4 +10,7 @@ logger = get_logger()
 logger.info('info message')
 ```
 
+## vscode_common
+vscode的配置，用来写python和c++的，目前为mac版所以编译器选的是clang
+
 ## 其他常用且需要二次封装的python模块，会持续更新……
