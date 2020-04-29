@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "/Users/lichunyu/opt/anaconda3/envs/ear/bin/python",
+    "files.exclude": {
+        "**/*.o": true,
+        "**/*.exe": true,
+        "**/*.class": true,
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    }
+}
