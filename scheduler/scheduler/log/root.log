@@ -1,0 +1,5 @@
+2020-12-04 17:41:13,976 base.py[line:440] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2020-12-04 17:41:13,979 base.py[line:881] INFO Added job "test" to job store "default"
+2020-12-04 17:41:13,979 base.py[line:166] INFO Scheduler started
+2020-12-04 17:41:43,981 base.py[line:123] INFO Running job "test (trigger: interval[0:00:30], next run at: 2020-12-04 17:42:13 CST)" (scheduled at 2020-12-04 17:41:43.975378+08:00)
+2020-12-04 17:41:43,982 base.py[line:144] INFO Job "test (trigger: interval[0:00:30], next run at: 2020-12-04 17:42:13 CST)" executed successfully
